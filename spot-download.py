@@ -28,8 +28,8 @@ CACHE_FILE = '.spotify_cache.pkl'
 COOKIES_FILE = 'cookies.txt'
 
 # Configuración Spotify
-CLIENT_ID = 'e31407ac283d4f689877b11389f4c6ea'
-CLIENT_SECRET = '69ae537afe8a438eb91fa1163bc0a5f8'
+CLIENT_ID = 'COMPLETAR'
+CLIENT_SECRET = 'COMPLETAR'
 REDIRECT_URI = 'http://localhost:8888/callback'
 
 # Optimización de yt-dlp
