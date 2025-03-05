@@ -3,7 +3,7 @@ Con la api de spotify busco la lista de me gustas, me quedo con el nombre de las
 
 
 ```markdown
-# Spotify Downloader 🎵
+# Spotify-Descargar-Me-gustas 🎵
 
 Descarga tus canciones guardadas de Spotify en formato MP3 usando YouTube como fuente.  
 *Optimizado para rendimiento y manejo de recursos.*
